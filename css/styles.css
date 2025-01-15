@@ -530,7 +530,7 @@
             background-image: url('../img/frameless-web.png');            
         }
 
-        @media (min-width: 1680px) {
+        @media (min-width: 1580px) {
             background-size: cover;          
         }
 
